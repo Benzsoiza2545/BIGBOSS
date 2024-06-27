@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 6,
+"version": 7,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -127,11 +127,7 @@
 {
         //server-AISPLAY-vip-5
          "config": "Howd/LsJvWT8O/pClfedv+kwADItPNwyiBvIC8aQwBeMsi31KCGkb08wZgO2g143l8wGyTBm1CeBW/utZCVj5/pBku/sVy0PXP0P6ZXo0L4IZiw13ZzKMVd9CZmhav6mPhLJaS3Dwx6XvreN/X9DcBOCt7NLRInfHpMlFw=="
- },
-{
-        //server-AISPLAY-vip-6
-         "config": "tzAJGwK4hBcP4iQ6twyPjzFNxRUX/PcQ6r3D43e25MnZo/Xbee+6Eqg8zotMjB/7wcO20PA8aI0CKcEuEWuD75mVr6ejbozu4nfPyu5pRvGrn0A15nCDXHVATki2vruUJmlXIGwR+zGODkm3b+nAEBYm3a50r1t96clRM1wSw6ilLnrGFYnbDFoQCxPhe4j+j4KsF1/xP9c9S7x/YTvmCA9ua8tUoQRj46vDHpqgh2XDZ68WkYGVsR/Xohns6og9+SZVPK0mVgH8U/SfgDKdfYnt128RBeiRkhUd/U8Z1XmnJdin9MbsugfShYl85XiBPq4Y2HawxlmM7CzNEguz81Lr9fR6aXotxPxy3OAryrXP/rzzPWPFJ+YOmj+ReqAsIeBBaQZib+juxbKDbP5maA=="
-}
+ }
 
       
 
