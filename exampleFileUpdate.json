@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 7,
+"version": 8,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -106,28 +106,32 @@
 },
 {
         //server-AISPLAY-vip-0
-         "config": "NZyBZTVViZ8uGGiKuSJtrQNruTl07hV3k9EZ/w+xTfqjKzkou1aDDF5th//i8QFXKQ8ngbYzNo0ajlLCcBB3O/e2OvvE+N2Fhm2e/PX7r9+jCTaJFBGT6Ns6JIPlyHcsWCCTiCJ8LBTEFfmEZh/GjuwNBHvkiOFI65Sa9pkG+HxesK7EO6xSHvOBhcN9yxpUs7HhFSVn58epOakD4ggzlE2oYrULCxQJUAK+1TQM1lU="
- },
+         "config": "UPKokITK169gszY1G3x2zjyIxI1RktCPEgen0A6yRYc2UWqkeGiUJefmHhq3fQyJYVUc15wItkF3tjEvGOXl0ZFWp22PxyjGq0NeHHpMsdAz9YoEV7flWm7DBmvTTnLqleK23H7OgeB4qHKNcj61i7nx1Au6Y3ZOhGO2plqWdBcEjW6yxYmK25rWnCSYIuWYvXKs1ll19ME0lAy7MP+f5ipXDT+M1MuXb117z0SEyVk="
+},
 {
         //server-AISPLAY-vip-1
-         "config": "Sk9UwQVXCl663jZdsIOzykrfOoZ9UTkV5KCJYNbrQOgqFXiRU356y6e6SOzhFkYitOggRpO5JebbMrk0bxq9cy2JcrYrPs3EcH/DfPCQmz0IpOl+HuAyJhzPyx6pGIvpi57AwmacRnX0J5OM6qHi2eONvndsBKGrvi5dUDZ9x0zuQnSAAehRQ9YeDIG+hlTENta91NqjwuHfTDSrRtT9ZR7Xzgobqc10NuuRDb/OtI04DVwb6wHYlj3e/OoDeyjmrJK2X54rMGmL+lDMY5V9yn2DPDhWNWbLtGGPIirOciSu5uWu/7Rc8Y4PHE5HF42+ngi0+EDnmxP81/QdXin0pi9A5E+bp/bQkIj2EE85ApUzl/Pw/PcBfpH/aeep1wtm3HlCU2YNYgmDgTkAq3oJfPZdYM0MBP8rGf1xt1ICZ6OT9urUIrQ1FoN4pu8="
- },
+         "config": "daGq9+CODZ6pyan25RODKZ73PiMU8Bhs3ia9EM1VAl/5UKdg2xxjq0T+rC0dMRbTDg8aEnnWuHdKOtz+JRHhFYtLrl+kuw+amfQnwXJzRAUFcCl8UfUXNLkKyPBE+pa2wt/Zr4TuEqUoDdCNVg7C/J4b9YDg6MhwgXPoFKGl+9YPMdmxXTjgryMcdWGEoJlQ3ls+IZFk0qGYkixCZMB3CGvhlGlyVlGCVg6UoLTsOeZaTZXdcDIyZMHzVwmct66F14Dhw5vMFwve719TdM9PAimRnH0MByPXsPSHFxDaHuzAJH6IJ8Xu0XXyvORlqfVhtBgC1cGel0HwNZxE6zEgsh8/XPg9W8tKPpV3e7pp4CMsmArf6M165MAqA3D4VkI3AeKeEmlLdW3TM2/sltroH1imUtwmQZOtaI6I9SjTfEXqYgOrjE7eiXf4z+Q="
+},
 {
         //server-AISPLAY-vip-2
-         "config": "h9+zn2VyFFXNMfRfgmKTOuZLnNMkBCIZ9Q2PSEsuPughgHJOCG7eog2Q996KH3jdsYm/fTJKjmi92lW10lZQbqeuwS9yeZPFCjL0UneLYBdFjnK90s+1GLtT3/RbBCaF5R62aiM7rjhk9Sx5Uhvpc80paYxlmScAx72fuOkBa2bjzSELp3DPOLOjVhigAfLvPVkei6ozm8dSap9bworFuzT5l75J8EQA"
- },
+         "config": "4eBGsuFM+VZYYpB2tkniDwXyWBcUwyh7f6EiNkHaiMxnnZ78ITiYU52D0WwvNWbHI/k2yrjdeAhqoCp2WKeSy6uLUAH43PYpFE7gtiSzydeh9Qs1yx3baHKj1GfH3hO/ZBaG5rFOTJd+N0AWQKM7mqwi+/BaIeAK4huhdWiD8TfwnB7x0owLMun8WNmbaPgWgRTlGZerIrlFu2rb5CLcun6RHQOLsXg0"
+},
 {
         //server-AISPLAY-vip-3
-         "config": "fajkEXlR2WtWuEF7IZYxEfSrcaAscgdwwt+NgNe616Id2a8SNjzCgzkfT2aopbGk9/pLpcvRlu5nuRWECHJBGNyKO5hAaC/AZb34c2PfyY6LB2UvkDD/dlmRWgrh5w2MklPKnyjL5cQw6/GYXWTzLs8DOfk="
- },
+         "config": "27AN0YrStsFjeWC2PBnadmMpcNFj0JtG2nv+xgMwTiRqmoSNIG2pisU4Uat7x1r3NcOdoC/0XiCD/hwpilrfqi9WF9/wbptlfGLzCVP/KQnMclLLFTUc2QJynsLBE+Grseyw/xuYjcwaUfhX05xLF9vGK1Y="
+},
 {
         //server-AISPLAY-vip-4
-         "config": "i3j4DcYFxlwnVsLmSmzgDvZr+YJJxzBYFenQzavTr7UPyAdJGe0Lh+8ZKSOvy6XwmDqV/jrjL741OXue9zeftHM2+qTSs5eSXY5P0fJl/V1j/Kz+I29E7TraP7KAOlfvmFkIVqjeWdtDQ8slg5XU15QKIPpjc7tjz3fxvazMqxtFTX7UocnJf8vY6Fp7eULXakTXGClo6AZFaCktQVwZIT4uncKJe/8rGXDTDhsNnkhSyib+y1ondYKHdOQMMikpZPR0d8PtJi8vg0iRtucseQ=="
- },
+         "config": "p48rbZnRKJLmfZ8SS4GH6hdCdAk87Mm7yhrFPh0eljeQlY/3bMeK7cerUIijcRF8pXGp10JUpeZoFl08htxrs7C0NRnDFB+MNjMCd3xG4dTCUZPDI1bPZo7YSsYZxMQEDIGqaR55MMP7K/umMrJ3oKi0mGvRCo9mRKBtk/5NAo61MsGIIdhE5nQ5c6RmBgFTg+QdKb0bwM+toO472zOcQhss4CEanGhDeGo/dl7drtDo+umJthZRIcQJ22UArdjdVY1gVf4dvBBENN7Zw+FMSg=="
+},
 {
         //server-AISPLAY-vip-5
-         "config": "Howd/LsJvWT8O/pClfedv+kwADItPNwyiBvIC8aQwBeMsi31KCGkb08wZgO2g143l8wGyTBm1CeBW/utZCVj5/pBku/sVy0PXP0P6ZXo0L4IZiw13ZzKMVd9CZmhav6mPhLJaS3Dwx6XvreN/X9DcBOCt7NLRInfHpMlFw=="
- }
+         "config": "F1bnMRlJYGuc+owFnLWr1HqGXQOq+gs58z6O/ceQIAqddh4gemSeE+P8aPoS4uM0JVMzQKSeh9bp2gRSsLXfIzMMaMI4HXxnQKuskbnOaOqpiG9/x6cKLWIpER4UL9TldAUIe4snJuRdxgC5IBBesx2jhFdqJc0bw+bIuQ=="
+},
+{
+        //server-AISPLAY-vip-6
+         "config": "S0O0Huv4/SdK0iaIcqLYJ+W+RfFhq9a1kQIWWHcPiZkJZrytT8X4r/Jq0eIe32DcQxEFhGKV3QYn0jPOMfm37iUszpSHpSETxJ5Htn+C/nRWnInJbw6oQC7RPxmC9w00Typqm5bErHkPFJFzBSKdeMWK9bSlNpuYIwwsEulFfOHa8y6NbCBadCuvprT3bblSs6t7j0/NKYF80eS18pawaHUOazZckx6efxq2TP0/fm0p92A3TIQLnO23aBfNEwOEiqwTPa/xUA1zZAWhYrY1FVnbOWTZu1PcYSnFHDeiWZi9wx9qNRpWz2/tqj8dX9HX4wMB7y1+EWg6tSxCyPyP3TcuV4VjVbyD5Rq8muXK8goDjgVmU7R8F9V4vweSSG1+6FEv1azsALhO6d/lHtlkiA=="
+}
 
       
 
