@@ -2,7 +2,7 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "add inter unit here",
-"version": 9,
+"version": 10,
 "message": "มีอะไรใหม่ \nเพิ่มเซิร์ฟเวอร์ใหม่",
 
 "files": [
@@ -22,15 +22,7 @@
 },
 {
          //server-true-vip-0
-         "config": "vgwG3oFzzPaPPf2BC2MBSECz5xVp6DSfiK4rl4zjK13gFsfr4UIb3FZE1IsdVTf3ceSq3vxZi+PN2QLaHxu8VmLo1LRxq4659GAZU5+A2pps9hWEwC9uud1wfBXeudoOli5Kj1neUp4yRKf7+ZhV/UWQHPjHQAxBfjsYjm+qGQv2vxGgTxnDPMlBlaTWzlsZ3PR4ps3DD/xO32zI2ZT1IADao6ZUc+Rn"
-},
-{
-         //server-true-vip-1
-         "config": "rOysgHBzfan6989YxONmoL9foRYcj6TTjy2elNpSNpE+/hx32iixSg1q0F+Lw1ex95UsPT57akRZKxIeVFgV7w/mJvLFOcZD6sUperIS2oabYvCs5K0fHI5LF7d4gkM1HI+nmWvMF4f4xQdDBNUaUQeKcDYAR40SUEzT0M1+9gFEEF/wBHdUfmYMkTof+FPJ5RsOznOMBeOPRP5wvsrl/CzOz0MyF6/uwNuYTjCZQhgrjoUkDe1O3plm8mNwZfap0X0Sh6UIaabRd0s/VWLJF5jce+Z7lxi+GRGvbpqzxLDNmBsIKEDZhwEO5oIziMh0L4uVSeKiET6TT23I6OpnURW5YlgCX5HMGxkKWJt69p0o98/Nf8L6DkcCaDzo1K5WgM6i1t6b/ZT25R0KX9LXCll7BVz3lo17g7xIfgB1gVngXqLoCbVUk8/VH2aih2kXO3ooiS0VG8I="
-},
-{
-         //server-true-vip-2
-         "config": "G/zg3dCYPFVV/qO0dHcTNADcldN8j9W1W47hRHa1Ns83tqLz7I/fPfVewo8Wp+sO1JbR76yVVh05cMmcOGnPNdVI2/VDjcTmSgy5ermR05hR2F+1qKzSt8c9ClHysCM2luGewWx38Si1V7/KCzdM7dLIXYQzB8H4HAxUYctUrdxW7WtUmhRL//6g6j1uPePc9UrRD7PeOnrPB9LFViKvX7I1oL0="
+         "config": "E3zVHEpU/VL01o/FlASu+MG/fIRbGlN8eHdZReXHzFtgCVFp9Zfh99x257rtSYNIXhCTo0vxPa6JKBUqp6UPAiolaDz5kZvXHF7i/z7ctyblXDJ7cwB9KASUeiM4J2q9cX5ChkDZDbeU9wv+pfy+qxUIQZDmNpaazDVqQbNQSagvi8hFp21zXmyHVTCKgM8aDMmYfJ0x5r57QLlHSf0miXArf3resBRxD8P9yxKb1r0fhMVl"
 },
 {
          //server-DtacSocial-VIP-01
@@ -74,7 +66,7 @@
 },
 {
         //server-AISPLAY-vip-0
-         "config": "UPKokITK169gszY1G3x2zjyIxI1RktCPEgen0A6yRYc2UWqkeGiUJefmHhq3fQyJYVUc15wItkF3tjEvGOXl0ZFWp22PxyjGq0NeHHpMsdAz9YoEV7flWm7DBmvTTnLqleK23H7OgeB4qHKNcj61i7nx1Au6Y3ZOhGO2plqWdBcEjW6yxYmK25rWnCSYIuWYvXKs1ll19ME0lAy7MP+f5ipXDT+M1MuXb117z0SEyVk="
+         "config": "DVscAO0znAeweIglPoVO2dLQ7NdQ+NUgNcec3OPDOlkjqnxX3OHRF/IC9FEeWMLLgBVmb8dAKS9Mkz0/fGCv5h4FLWkNakXLyMnUAJrbKuhPVjmZBsAEyZAu7b1EUfMbxeEhnT1kDsR598enlvdwBpfOjgzN339ByOFfGHJzrhpbvkWoNQQ9gEUI7nj8v8gb0g8MG0U+fauihUXY7WH960KQkRURu9UoFBboTUTUH7+Y9vKaJiXMt9dv/3GhngqU1sY2uct0j23HC6KEsFlG9tV4sIUTDsGqcYMJ1Jt/lHVpv+j/nPpw6NszlY7e7VN6POnGWwN5d0NvSNGRm9qIrib01OfybDSPKUmjR5bxOgB1vjT30XH3Sm6GZQHg4U3rUjvDcJ98yyE+/ll5aweNQcSrTw+DQiDA0nNRsGTX8QS91pMHlyrGuOteIE8="
 },
 {
         //server-AISPLAY-vip-1
